@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashish Gautam</h1>
-<h3 align="center">A passionate frontend & AI developer</h3>
+<h3 align="center">A Passionate Frontend Developer & AI Enthusiast</h3>
+
+- 🌱 I’m currently learning **Firebase,Stripe & Other APIs**
+
+- 👨‍💻 All of my projects are available at [https://ashishgautam0.com/](https://ashishgautam0.com/)
+
+- 📝 I regularly write articles on [https://bctengineeringnotes.blogspot.com/](https://bctengineeringnotes.blogspot.com/)
+
+- 💬 Ask me about **React, Next.js**
+
+- 📫 How to reach me **ashishgautam0012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
