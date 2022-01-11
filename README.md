@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Gautam</h1>
 <h3 align="center">A Passionate Frontend Developer & AI Enthusiast</h3>
 
-- 🌱 I’m currently learning **Firebase,Stripe & Other APIs**
+- 🌱 I’m currently learning **Node.JS,Firebase,Stripe & Other APIs**
 
 - 👨‍💻 All of my projects are available at [https://ashishgautam0.com/](https://ashishgautam0.com/)
 
